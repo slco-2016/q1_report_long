@@ -191,6 +191,7 @@ Navigation
 }
 .sidebar-nav li:hover,
 .sidebar-nav a:focus,
+.sidebar-nav a:hover,
 .sidebar-nav li:active,
 .sidebar-nav .sidebar-nav-active {
   color: #FFF;
@@ -236,7 +237,7 @@ Layout
 }
 
 .content {
-  padding-top: 2em;
+  padding-top: 140px;
   padding-bottom: 2em;
 }
 
@@ -253,6 +254,14 @@ section:before {
     margin: 0 auto;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+header {
+    position: fixed;
+}
+
+aside {
+    position: fixed;
 }
 
 header {
