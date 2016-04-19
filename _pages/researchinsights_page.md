@@ -47,7 +47,7 @@ title:  "Insights Resulting from Dissemination of Research"
 - Quotes
 	- *“I didn’t make the effort to stop (last time on probation)I know it was wrong I justify it and I dont think its a big of a deal.”* - Client, Criminal Justice Services 
 	- *“Jail and Prison time can be preferable to some people who have been through the justice system multiple times because it’s familiar and there are no expectations on them.”* - Case Manager, Criminal Justice Services 
-	- *“(Drug-abuse clients) want to avoid consequences, They often cite they ‘forgot.”’* - District Judge, Salt Lake County
+	- *“[Drug-abuse clients] want to avoid consequences, They often cite they ‘forgot.”’* - District Judge, Salt Lake County
 	- "[The] reason is avoidance. [People with Felony prosecutions] really just do not want to deal with it."* - District Attorney, Salt Lake City
 	- “[I] knew I was going to be dirty and I fell back into the same thing and my attitude from that... fxxx it”* - Client, Criminal Justice Services 
 - Observations
