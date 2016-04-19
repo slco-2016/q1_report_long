@@ -23,7 +23,7 @@ In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additiv
 
 ### Resulting archetypes
 
-1. **Achievement focused**
+1. **Achievement-focused**
 	- *“[This is the] the first time in a long time I'm doing good. I’m proud of myself.”*
 	- Characteristics:
 		- Has positive social support, mild confidence about their success.
@@ -57,7 +57,7 @@ In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additiv
 		- Wants to remedy the situation and put their charge behind them.
 		- Most likely supervision fees are difficult for them to pay.
 
-5. **Blames the system**
+5. **Angry**
 	- *“I'm going to fight all those charges. I'm not causing no trouble.”*
 	- Characteristics:
 		- Blames circumstances as result of being targeted by law enforcement.
