@@ -52,7 +52,7 @@ Passive communication thrives when mechanism is easy to use. A key way to provid
 	1. Email routing support, voice support
 	2. Additional case management features
 
-![measure]({{ site.baseurl }}/assets/imgs/misc/15.pnG)
+![measure]({{ site.baseurl }}/assets/imgs/misc/15.png)
 
 **How are going to measure effectiveness of tool with regards to our overall mission?**
 
