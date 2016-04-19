@@ -5,7 +5,7 @@ title:  "An Overview of the User-Centered Design and Research Process"
 
 ##### *“Learn, Build, Measure” - Code for America’s Iterative process.*
 
-![System]({{ site.baseurl }}/assets/img/misc/13.png)
+![System]({{ site.baseurl }}/assets/imgs/misc/13.png)
 
 ### How does this work?
 
@@ -20,7 +20,7 @@ Current government procurement methods can be slow and overly complex. This make
 - Iterative methods make the technology procurement and  development process part of the research. Features and development decisions are data-driven. 
 - Actual usage data leads to lean, well-scoped, and proven software, shipped piecemeal in direct response to user feedback.
 
-![System]({{ site.baseurl }}/assets/img/clientecosystem/2.jpg)
+![System]({{ site.baseurl }}/assets/imgs/clientecosystem/2.jpg)
 
 *User-centered design engages users of a system or service to understand the process and the needs of its users in order to gain insights and find improvement opportunities.*
 
