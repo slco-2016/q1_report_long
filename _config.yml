@@ -62,6 +62,15 @@ repos:
 - name: SLCo Court Dates
   description: Parses Court VINE data
   url: https://github.com/slco-2016/slco-court-calendar-service
+- name: Cal Responder
+  description: Fasciltates text message queries
+  url: https://github.com/slco-2016/cal-responder
+- name: CJS Client Capture
+  description: Simple pre-booking registration
+  url: https://github.com/slco-2016/cjs_client_capture
+- name: Utah Court Dates
+  description: Scrapes State Court PDFs
+  url: https://github.com/slco-2016/utah-court-calendar-service
 
 # Style Variables
 brand_color: "#004b6a"
