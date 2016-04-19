@@ -1,4 +1,4 @@
-![Logo]({{ site.baseurl }}/assets/img/cfalogo.png)
+![Logo]({{ site.baseurl }}/assets/imgs/cfalogo.png)
 
 # Phase 1 Report Overview
 
@@ -6,4 +6,4 @@
 
 Code for America is partnering with Salt Lake County to build technology solutions to improve services and strengthen the relationship between the county and its citizens, with an aim to lower the rate at which citizens fail to appear (FTA) in court, supervision and treatment appointments in addition to lowering the recidivism rate. 
 
-![Office]({{ site.baseurl }}/assets/img/misc/1.JPG)
+![Office]({{ site.baseurl }}/assets/imgs/misc/1.JPG)
