@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/q1_report_long/assets/img/octocat.png',
   // pages
-  '/q1_report_long/challenge_page/','/q1_report_long/example_page/',
+  '/q1_report_long/challenge_page/','/q1_report_long/example_page/','/q1_report_long/researchprocess_page_page/','/q1_report_long/usercentereddesign_page/',
   // posts
   
 ];

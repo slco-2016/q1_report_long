@@ -37,6 +37,12 @@ navigation:
 - text: Challenge Page
   url: challenge_page/
   internal: true
+- text: User-centered
+  url: usercentereddesign_page/
+  internal: true
+- text: Research Process
+  url: researchprocess_page/
+  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here
