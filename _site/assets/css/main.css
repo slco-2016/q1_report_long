@@ -169,6 +169,10 @@ Navigation
 ==================================
 */
 
+.sidebar-nav {
+  position: fixed;
+}
+
 .sidebar-nav a {
   display: block;
   padding: 10px;

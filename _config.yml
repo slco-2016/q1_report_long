@@ -46,6 +46,9 @@ navigation:
 - text: Research Outcomes
   url: researchoutcomes_page/
   internal: true
+- text: Research Insights
+  url: researchinsights_page/
+  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here
