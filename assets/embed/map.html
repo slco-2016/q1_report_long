@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CFA: Team Salt Lake Q1 Report</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,300" rel="stylesheet" type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.3/tabletop.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script src="//d3js.org/d3.v3.js"></script>
+
+  </head>
+
+  <style>
+    body {
+      font-family: 'Source Sans Pro', sans-serif;
+      margin: 0px;
+      padding: 0px;
+      overflow: hidden;
+      background-color: #004b6a; 
+      color: #FFF;
+    }
+
+
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip {
+      background-color: #152c33;
+    }
+
+    #map {
+      width: 100%%;
+      margin: 0 auto;
+    }
+
+  </style>
+
+
+  <body>
+    <div id="map"></div>
+  </body>
+
+  <script type="text/javascript">
+    window.onload = function () {
+      var x = (window.innerWidth);
+      var y = (window.innerHeight);
+      if (x > 0) $("#map").width(x + "px");
+      if (y > 0) $("#map").height(y + "px");
+      drawMap()
+    };
+
+    function drawMap () {
+      var layer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',{attribution: ""});
+      map = L.map("map", {
+        center: [40.6708, -111.8910],
+        zoom: 11
+      });
+      map.addLayer(layer);
+
+      var markerList = [];
+      [
+        {latlng: [40.777338, -111.888040], name: "Maps on the Hill"},
+        {latlng: [40.759576, -111.887005], name: "David Litvack"},
+        {latlng: [40.759639, -111.889491], name: "CourtHack"},
+        {latlng: [40.764097, -111.903263], name: "Homeless Court"},
+        {latlng: [40.763339, -111.904101], name: "Homeless User Interviews"},
+        {latlng: [40.764428, -111.904680], name: "Road Home"},
+        {latlng: [40.759168, -111.881585], name: "Salt Lake City Police Department"},
+        {latlng: [40.760896, -111.882776], name: "HackNight SLC"},
+        {latlng: [40.759486, -111.886587], name: "OpenSLC"},
+        {latlng: [40.698867, -111.916213], name: "Sheriff Winder and Deputy Chief Lofgreen"},
+        {latlng: [40.696710, -111.914882], name: "County Metro Jail <br> Observed intake, processing, and release"},
+        {latlng: [40.726604, -111.887450], name: "Salt Lake County Information Systems"},
+        {latlng: [40.726277, -111.887446], name: "Mayor Ben McAdams"},
+        {latlng: [40.727944, -111.887714], name: "Salt Lake County Registrar"},
+        {latlng: [40.728502, -111.875545], name: "Code for America Team Salt Lake County"},
+        {latlng: [40.485133, -111.895048], name: "Adult Parole and Probation <br> Leadership Introduction and Brainstorming Session"},
+        {latlng: [40.570915, -111.895366], name: "Sandy Police Department"},
+        {latlng: [40.570475, -111.896085], name: "LEADS Meeting"},
+        {latlng: [40.760865, -111.902913], name: "Homeless Outreach"},
+        {latlng: [40.758516, -111.889169], name: "Veterans Court"},
+        {latlng: [40.764253, -111.891304], name: "Goldman Sachs"},
+        {latlng: [40.759294, -111.884079], name: "Homeless Outreach"},
+        {latlng: [40.741875, -111.885861], name: "Criminal Justice Services <br> Pretrial and probation supervision appointments"},
+        {latlng: [40.741947, -111.886406], name: "TASC, Inc <br> Urine Analysis"},
+        {latlng: [40.654070, -111.983963], name: "Utah Bureau of Criminal Identification"},
+        {latlng: [40.761809, -111.901113], name: "Homeless Outreach <br> Pioneer Park"},
+        {latlng: [40.759760, -111.888593], name: "Third District Court <br> Procedural observations"}
+
+      ].forEach(function (ea) {
+        markerList.push(L.marker(ea.latlng).bindPopup(ea.name));
+      });
+      var group = new L.featureGroup(markerList);
+      group.addTo(map);
+      map.fitBounds(group.getBounds());
+      setTimeout(function () {
+         map.panTo([40.83, -111.885240], {easeLinearity: 0.01, animate: true, duration: 3})
+         setTimeout(function () { map.setZoom(14); }, 600);
+      }, 1000);
+    }
+
+  </script>
+
+</html>

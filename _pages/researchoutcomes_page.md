@@ -9,6 +9,8 @@ title:  "Outcomes of Research Process"
 
 **Revised hypothesis:** Some people are indeed simply forgetting their appointments, but there are other myriad of social, emotional, financial, logistical, and institutional barriers that account for people failing to comply with their supervision. Identifying patterns and producing archetypes will be necessary to provide a foundation upon which to research and measure the target population longitudinally.
 
+![Paperwork]({{ site.baseurl }}/assets/img/clientpaperwork/1.JPG)
+
 ### Rationale for the creation of archetypes
 
 *“Identifying archetypes – in the ageless symbols and defining character traits so vital in shaping the human psyche – makes it possible for researchers to investigate attitudes, beliefs, emotions and behaviours in ways that go far beyond traditional qualitative reports.” - David Kay, Research Dimensions*
@@ -16,6 +18,8 @@ title:  "Outcomes of Research Process"
 The notion of archetypes in the field of criminology was solidified by Terrie Moffitt’s dual taxonomy of offending behavior in her 1993 journal article “Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy” (Psychological Review. 100(4):674-701, October 1993). 
 
 In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additive scale to analyze early prediction scales that have been designed in order to identify criminogenic behavior (American Journal of Criminal Justice, 26: 77–92.  2001.). The article identifies a tendency for the analyzes predictive models to over-predict criminality. Further, Dr. DeLisi cites Moffitt and “a sizable empirical literature” that “only about 5% of offenders demonstrate the pathological criminality.” Given this conclusion, it becomes critical to analyze and understand populations beyond a criminogenic binary - as current criminal justice methods employ. Rather, it is valid to identify and categorize population according to more holistic attributions.
+
+![Paperwork]({{ site.baseurl }}/assets/img/clientinterviews/5.JPG)
 
 ### Resulting archetypes
 
@@ -59,7 +63,6 @@ In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additiv
 		- Blames circumstances as result of being targeted by law enforcement.
 		- Of the opinion that  their charges are unfair.
 		- Most likely are unmotivated to change, the notion of self-improvement.
-
 
 
 

@@ -3,8 +3,11 @@ layout: page
 title:  "Insights Resulting from Dissemination of Research"
 ---
 
+![JoAnn]({{ site.baseurl }}/assets/img/misc/12.JPG)
+
 
 ### Communication barriers 
+
 - Key takeaway: Case managers struggle to communicate with clients due to communication technology access and other barriers.
 - Quotes
 	- *“I've had clients try to text me but my work phone doesn't have that capability.”* - Therapist, Criminal Justice Services
@@ -16,6 +19,8 @@ title:  "Insights Resulting from Dissemination of Research"
 - Ideas/Opportunities: How might we improve communication processes for caseworkers and their clients?
 	1. Message support through text, email or voice to give clients asynchronous feedback loops so they can communicate when and how is convenient for them and allows case managers to keep track of clients.
 
+
+![systemflow]({{ site.baseurl }}/assets/img/systemflow/9.JPG)
 
 ### System complexity
 - Key takeaway: Complexity in the system and lack of clear information can make it hard for a client to comply with their supervision. Furthermore, complexity and the resultant obfuscation is not a malady solely clientside. Lack of transparency between the courts, service providers and Criminal Justice Services makes it hard for case managers to have a complete picture of challenges their clients might have and for clients to keep track of all their requirements.
@@ -42,10 +47,12 @@ title:  "Insights Resulting from Dissemination of Research"
 	- *“You’ll find that when they get out of jail they are excited [and motivated to stay out of jail].”* - Case Manager, Criminal Justice Services 
 
 
+![systemflow]({{ site.baseurl }}/assets/img/clientportraits/09-2.JPG)
+
 ### Supervision compliance weak points
 - Key takeaway: Some individuals have effectively become “numbed” to their criminal record due to their extensive criminal history or criminal justice system experiences. Others feel their crime is minor and are either of the opinion that the supervision is a nuisance and an undue burden, or that - because they deem their crime minor, they also deem the supervision and its severity to be the same.
 - Quotes
-	- *“I didn’t make the effort to stop (last time on probation)I know it was wrong I justify it and I dont think its a big of a deal.”* - Client, Criminal Justice Services 
+	- *“I didn’t make the effort to stop [last time on probation], I know it was wrong I justify it and I dont think its a big of a deal.”* - Client, Criminal Justice Services 
 	- *“Jail and Prison time can be preferable to some people who have been through the justice system multiple times because it’s familiar and there are no expectations on them.”* - Case Manager, Criminal Justice Services 
 	- *“[Drug-abuse clients] want to avoid consequences, They often cite they ‘forgot.”’* - District Judge, Salt Lake County
 	- "[The] reason is avoidance. [People with Felony prosecutions] really just do not want to deal with it."* - District Attorney, Salt Lake City
@@ -57,7 +64,7 @@ title:  "Insights Resulting from Dissemination of Research"
 	2.Incentivise compliance by making them eligible for a lottery to refund some of the supervision fees already paid. 
 
 
-### Supervision compliance weak points
+### Personal Barriers
 - Key takeaway: Potential for personal loss can have significant impact on the severity with which they place potential jail and supervision requirements.
 - Quotes
 	- *"We’re dealing with people; we need to make the communication personal” - Case Manager, Criminal Justice Services 
@@ -68,11 +75,10 @@ title:  "Insights Resulting from Dissemination of Research"
 	2. Different clients have  a different reminder methods including  smartphone apps, physical and digital calendars, parents/friends, and reminder cards on the fridge.
 
 
-### Supervision compliance weak points
+### Mental Health Barriers
 - Key takeaway: Mental health clients can can struggle to understand supervision requirements, remember appointments.
 - Quotes
-	- *“I didn’t make the effort to stop (last time on probation)I know it was wrong I justify it and I dont think its a big of a deal.”* - Client, Criminal Justice Services 
-	- *“Jail and Prison time can be preferable to some people who have been through the justice system multiple times because it’s familiar and there are no expectations on them.”* - Case Manager, Criminal Justice Services 
+	- *“It takes a while for you to explain the conditions because [a person with a mental health condition] may not understand it....another person has signed a release of information form.”* - Case Manager, Criminal Justice Services
 	- *“We need to be patient and understanding that these people are … always going to be mentally ill and if they are not continually in treatment or taking their meds they're going to continue to picking up charges.”* - Case Manager, Criminal Justice Services
 	- *“It takes a while for you to explain the conditions because (a person with a mental health condition) may not understand it ... another person has signed a release of information form.”* - Case Manager, Criminal Justice Services
 	- *“For mental health clients—they always forget—give information to a caregiver, that is who you give the information to.”* - Case Manager, Criminal Justice Services 
@@ -94,6 +100,9 @@ title:  "Insights Resulting from Dissemination of Research"
 	2. Create redirection mechanism at jail booking to provide an alternative center for mental health and substance abuse clients that has treatment or something other than jail so that they are not getting entered into an inappropriate system.
 
 
+
+![clientpaperwork]({{ site.baseurl }}/assets/img/clientpaperwork/2.JPG)
+
 ### Individualized Support
 - Key takeaway: Support Staff engage with clients in a complementary manner with regards to the case manager, because their roles are not compliance focused. Intensive Supervision Program (ISP) Officers build rapport with clients and see themselves as Mentors. Peer Mentors are knowledgeable of and empathy for the barriers addicts can face because they have been through a similar struggle.
 - Quotes
@@ -107,12 +116,15 @@ title:  "Insights Resulting from Dissemination of Research"
 	1. Target low risk low need offenders with online supervision tools. Less interaction with them is better for successful.
 
 
+
+![systemflow]({{ site.baseurl }}/assets/img/systemflow/1.JPG)
+
 ### Jail Issues
 - Key takeaway: There is a need to support people to help them keep their personal life and responsibilities stable and intact while they are in jail. Some people not eligible for pretrial or other out of jail options because of their risk level, the type of crime they committed or for not having a stable address or phone number or references.
 - Quotes
 	- *“A screener [at the jail] can talk to someone who isn’t homeless and by the time they get to us they can be.”* - Case Manager, Criminal Justice Services  
 	- *“We need to have the beds for the felons.”* - Intake screener, Criminal Justice Services,  discussing the reason for overcrowding releases (OCR)
-	- *“A lot of police officers don’t take people to jail anymore, because what’s the point of it?”*
+	- *“A lot of police officers don’t take people to jail anymore, because what’s the point of it?”* - Pretrial Supervisor, Criminal Justice Services
 - Observations
 	1. First offence creates supervision requirements that clients can’t comply with or think they can get away without complying.
 	2. A person can be booked into  jail and immediately released due to jail overcrowding.

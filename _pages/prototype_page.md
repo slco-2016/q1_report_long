@@ -38,6 +38,8 @@ Passive communication thrives when mechanism is easy to use. A key way to provid
 	- Measuring logins by case manager, text message frequency, and client responsiveness.
 	- Results in preliminary stages; we are still developing a robust dataset and are in our first month of prototyping thus far. Most basic measures of success have returned positive results.
 
+![user]({{ site.baseurl }}/assets/img/misc/14.JPG)
+
 **Response:** 
 
 *“First and foremost the program is working very well. I am having more success contacting clients that I otherwise was having problems doing. My guess is people seem more comfortable texting.”* - Pretrial Case Manager at Criminal Justice Services
@@ -49,6 +51,8 @@ Passive communication thrives when mechanism is easy to use. A key way to provid
 - Some key future elements to support:
 	1. Email routing support, voice support
 	2. Additional case management features
+
+![measure]({{ site.baseurl }}/assets/img/misc/15.pnG)
 
 **How are going to measure effectiveness of tool with regards to our overall mission?**
 

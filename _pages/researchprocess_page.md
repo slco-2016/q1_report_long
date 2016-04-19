@@ -14,10 +14,14 @@ The first phase’s research process focused on visitation and observation. Prim
 - Short  Interviews, 5-20 minutes in length
 	-  8 homeless individuals in downtown Salt Lake City
 
+<iframe src="{{ site.baseurl }}/assets/embed/map.html"></iframe>
+
 ### Workshops
 
 Participatory workshops, each with between 8-45 members of Criminal Justice Services Staff were performed over the course of a month and a half. Below are the key events, listed with the design exercicse described briefly for each.
 
+
+![Five Whys]({{ site.baseurl }}/assets/img/fivewhys/1.JPG)
 
 #### Five Whys
 
@@ -34,6 +38,8 @@ Participatory workshops, each with between 8-45 members of Criminal Justice Serv
 4. Repeat (suggested minimum of five rounds) until you get to the underlying conditions that led to the initial problem.
 
 
+![System Mapping]({{ site.baseurl }}/assets/img/systemmap/2.JPG)
+
 #### System mapping 
 
 **Goal:** Create shared perspective of organizational system and identify opportunities for improvement.
@@ -49,6 +55,8 @@ Participatory workshops, each with between 8-45 members of Criminal Justice Serv
 3. Small groups pick one pain points or opportunity that has a cluster of dots around it. Give it a name and brainstorm solutions for a final share out.
 
 
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/Zp9SbOvrFu4" frameborder="0" allowfullscreen></iframe>
+
 #### Product ideation
 
 **Goal:** Produce deeper discussion on ideas for creating new processes or tools collected from previous workshops.
@@ -63,6 +71,8 @@ Participatory workshops, each with between 8-45 members of Criminal Justice Serv
 
 3. Determine minimum investment necessary to test if time/resources.Identify individuals interested in taking  one of the top ideas further.
 
+
+![Ecosystem Mapping]({{ site.baseurl }}/assets/img/clientecosystem/4.JPG)
 
 #### Ecosystem mapping
 
