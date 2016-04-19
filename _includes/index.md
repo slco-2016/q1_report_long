@@ -1,3 +1,5 @@
-The homepage content can be edited as markdown in _includes/index.html or directly within the index.html file.
+# Phase 1 Report Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+##### *“Salt Lake County is struggling with having to re-arrest people for not showing up to a court appearance or to court-ordered treatment. That is expensive, inefficient and—most of all—doesn’t help address the reason behind the original arrest. We’re excited to work with Code for America to find the right technological tool that people can use to avoid being re-arrested. That should help ease overcrowding at the jail and help put individuals on a more constructive path.” - Ben McAdams, Mayor, Salt Lake County*
+
+Code for America is partnering with Salt Lake County to build technology solutions to improve services and strengthen the relationship between the county and its citizens, with an aim to lower the rate at which citizens fail to appear (FTA) in court, supervision and treatment appointments in addition to lowering the recidivism rate. 

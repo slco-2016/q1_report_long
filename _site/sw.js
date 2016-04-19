@@ -1,17 +1,17 @@
-importScripts( '/DOCter/cache-polyfill.js' );
+importScripts( '/q1_report_long/cache-polyfill.js' );
 
 var filesToCache = [
   // root
-  '/DOCter/',
-  '/DOCter/index.html',
+  '/q1_report_long/',
+  '/q1_report_long/index.html',
   // css
-  '/DOCter/assets/css/main.css',
-  '/DOCter/assets/css/normalize.css',
-  '/DOCter/assets/css/syntax.css',
+  '/q1_report_long/assets/css/main.css',
+  '/q1_report_long/assets/css/normalize.css',
+  '/q1_report_long/assets/css/syntax.css',
   // images
-  '/DOCter/assets/img/octocat.png',
+  '/q1_report_long/assets/img/octocat.png',
   // pages
-  '/DOCter/example_page/','/DOCter/foobar_page/',
+  '/q1_report_long/challenge_page/','/q1_report_long/example_page/',
   // posts
   
 ];

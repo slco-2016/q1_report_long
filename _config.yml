@@ -34,15 +34,9 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Example Page
-  url: example_page/
+- text: Challenge Page
+  url: challenge_page/
   internal: true
-- text: foobar_page.md
-  url: foobar_page/
-  internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
-  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
@@ -50,9 +44,15 @@ repos:
 - name: ClientComm
   description: Case manager comms
   url: https://github.com/slco-2016/clientcomm
+- name: SLCo Budget Explorer
+  description: Data visualization tool
+  url: https://github.com/slco-2016/slco-budget
+- name: SLCo Court Dates
+  description: Parses Court VINE data
+  url: https://github.com/slco-2016/slco-court-calendar-service
 
 # Style Variables
-brand_color: "#003366"
+brand_color: "#004b6a"
 
 # Offline caching
 offline_cache: false
