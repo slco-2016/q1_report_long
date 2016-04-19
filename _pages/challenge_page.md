@@ -5,7 +5,7 @@ title:  "Our Team's Challenge from Salt Lake County"
 
 ##### *“They just get sucked into the system.” - Probation Case Manager, Criminal Justice Services, Salt Lake County*
 
-![System]({{ site.baseurl }}/assets/img/misc/11.JPG)
+![System]({{ site.baseurl }}/assets/img/misc/11.jpg)
 
 Complexities in navigating the criminal justice system, creates the potential for an individual to become stuck in highly punitive cycles, regardless of any intentions to move beyond incarceration. 68% of persons matriculating from the criminal justice system return within three years of their release, 77% within 5 years, according to the [Bureau of Justice Statistics](http://www.bjs.gov/content/pub/press/rprts05p0510pr.cfm).
 
@@ -22,4 +22,4 @@ In Norman Fineman’s “The social construction of noncompliance: a study of he
 
 We seek to create services that assist both clients and case managers in the latter category, in particular, to reduce impediments to and create opportunities for success.
 
-![Diversity]({{ site.baseurl }}/assets/img/misc/5.JPG)
+![Diversity]({{ site.baseurl }}/assets/img/misc/5.jpg)

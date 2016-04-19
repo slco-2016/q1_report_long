@@ -21,7 +21,7 @@ The first phase’s research process focused on visitation and observation. Prim
 Participatory workshops, each with between 8-45 members of Criminal Justice Services Staff were performed over the course of a month and a half. Below are the key events, listed with the design exercicse described briefly for each.
 
 
-![Five Whys]({{ site.baseurl }}/assets/img/fivewhys/1.JPG)
+![Five Whys]({{ site.baseurl }}/assets/img/fivewhys/1.jpg)
 
 #### Five Whys
 
@@ -38,7 +38,7 @@ Participatory workshops, each with between 8-45 members of Criminal Justice Serv
 4. Repeat (suggested minimum of five rounds) until you get to the underlying conditions that led to the initial problem.
 
 
-![System Mapping]({{ site.baseurl }}/assets/img/systemmap/2.JPG)
+![System Mapping]({{ site.baseurl }}/assets/img/systemflow/2.jpg)
 
 #### System mapping 
 
@@ -72,7 +72,7 @@ Participatory workshops, each with between 8-45 members of Criminal Justice Serv
 3. Determine minimum investment necessary to test if time/resources.Identify individuals interested in taking  one of the top ideas further.
 
 
-![Ecosystem Mapping]({{ site.baseurl }}/assets/img/clientecosystem/4.JPG)
+![Ecosystem Mapping]({{ site.baseurl }}/assets/img/clientecosystem/4.jpg)
 
 #### Ecosystem mapping
 

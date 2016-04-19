@@ -20,7 +20,7 @@ Current government procurement methods can be slow and overly complex. This make
 - Iterative methods make the technology procurement and  development process part of the research. Features and development decisions are data-driven. 
 - Actual usage data leads to lean, well-scoped, and proven software, shipped piecemeal in direct response to user feedback.
 
-![System]({{ site.baseurl }}/assets/img/clientecosystem/2.JPG)
+![System]({{ site.baseurl }}/assets/img/clientecosystem/2.jpg)
 
 *User-centered design engages users of a system or service to understand the process and the needs of its users in order to gain insights and find improvement opportunities.*
 

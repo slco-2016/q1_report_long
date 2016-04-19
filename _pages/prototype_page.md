@@ -38,7 +38,7 @@ Passive communication thrives when mechanism is easy to use. A key way to provid
 	- Measuring logins by case manager, text message frequency, and client responsiveness.
 	- Results in preliminary stages; we are still developing a robust dataset and are in our first month of prototyping thus far. Most basic measures of success have returned positive results.
 
-![user]({{ site.baseurl }}/assets/img/misc/14.JPG)
+![user]({{ site.baseurl }}/assets/img/misc/14.jpg)
 
 **Response:** 
 

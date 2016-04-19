@@ -9,7 +9,7 @@ title:  "Outcomes of Research Process"
 
 **Revised hypothesis:** Some people are indeed simply forgetting their appointments, but there are other myriad of social, emotional, financial, logistical, and institutional barriers that account for people failing to comply with their supervision. Identifying patterns and producing archetypes will be necessary to provide a foundation upon which to research and measure the target population longitudinally.
 
-![Paperwork]({{ site.baseurl }}/assets/img/clientpaperwork/1.JPG)
+![Paperwork]({{ site.baseurl }}/assets/img/clientpaperwork/1.jpg)
 
 ### Rationale for the creation of archetypes
 
@@ -19,7 +19,7 @@ The notion of archetypes in the field of criminology was solidified by Terrie Mo
 
 In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additive scale to analyze early prediction scales that have been designed in order to identify criminogenic behavior (American Journal of Criminal Justice, 26: 77–92.  2001.). The article identifies a tendency for the analyzes predictive models to over-predict criminality. Further, Dr. DeLisi cites Moffitt and “a sizable empirical literature” that “only about 5% of offenders demonstrate the pathological criminality.” Given this conclusion, it becomes critical to analyze and understand populations beyond a criminogenic binary - as current criminal justice methods employ. Rather, it is valid to identify and categorize population according to more holistic attributions.
 
-![Paperwork]({{ site.baseurl }}/assets/img/clientinterviews/5.JPG)
+![Paperwork]({{ site.baseurl }}/assets/img/clientinterviews/5.jpg)
 
 ### Resulting archetypes
 

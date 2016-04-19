@@ -3,7 +3,7 @@ layout: page
 title:  "Insights Resulting from Dissemination of Research"
 ---
 
-![JoAnn]({{ site.baseurl }}/assets/img/misc/12.JPG)
+![JoAnn]({{ site.baseurl }}/assets/img/misc/12.jpg)
 
 
 ### Communication barriers 
@@ -20,7 +20,7 @@ title:  "Insights Resulting from Dissemination of Research"
 	1. Message support through text, email or voice to give clients asynchronous feedback loops so they can communicate when and how is convenient for them and allows case managers to keep track of clients.
 
 
-![systemflow]({{ site.baseurl }}/assets/img/systemflow/9.JPG)
+![systemflow]({{ site.baseurl }}/assets/img/systemflow/9.jpg)
 
 ### System complexity
 - Key takeaway: Complexity in the system and lack of clear information can make it hard for a client to comply with their supervision. Furthermore, complexity and the resultant obfuscation is not a malady solely clientside. Lack of transparency between the courts, service providers and Criminal Justice Services makes it hard for case managers to have a complete picture of challenges their clients might have and for clients to keep track of all their requirements.
@@ -47,7 +47,7 @@ title:  "Insights Resulting from Dissemination of Research"
 	- *“You’ll find that when they get out of jail they are excited [and motivated to stay out of jail].”* - Case Manager, Criminal Justice Services 
 
 
-![systemflow]({{ site.baseurl }}/assets/img/clientportraits/09-2.JPG)
+![systemflow]({{ site.baseurl }}/assets/img/clientportraits/09-2.jpg)
 
 ### Supervision compliance weak points
 - Key takeaway: Some individuals have effectively become “numbed” to their criminal record due to their extensive criminal history or criminal justice system experiences. Others feel their crime is minor and are either of the opinion that the supervision is a nuisance and an undue burden, or that - because they deem their crime minor, they also deem the supervision and its severity to be the same.
@@ -101,7 +101,7 @@ title:  "Insights Resulting from Dissemination of Research"
 
 
 
-![clientpaperwork]({{ site.baseurl }}/assets/img/clientpaperwork/2.JPG)
+![clientpaperwork]({{ site.baseurl }}/assets/img/clientpaperwork/2.jpg)
 
 ### Individualized Support
 - Key takeaway: Support Staff engage with clients in a complementary manner with regards to the case manager, because their roles are not compliance focused. Intensive Supervision Program (ISP) Officers build rapport with clients and see themselves as Mentors. Peer Mentors are knowledgeable of and empathy for the barriers addicts can face because they have been through a similar struggle.
@@ -117,7 +117,7 @@ title:  "Insights Resulting from Dissemination of Research"
 
 
 
-![systemflow]({{ site.baseurl }}/assets/img/systemflow/1.JPG)
+![systemflow]({{ site.baseurl }}/assets/img/systemflow/1.jpg)
 
 ### Jail Issues
 - Key takeaway: There is a need to support people to help them keep their personal life and responsibilities stable and intact while they are in jail. Some people not eligible for pretrial or other out of jail options because of their risk level, the type of crime they committed or for not having a stable address or phone number or references.
