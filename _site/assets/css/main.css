@@ -119,8 +119,8 @@ a:visited {
 }
 
 a:hover {
-    border-bottom: 1px solid #7eb8dd;
-    /*color: #7eb8dd;*/
+    border-bottom: 1px solid #004b6a;
+    /*color: #004b6a;*/
     text-decoration: none;
 }
 
@@ -139,14 +139,14 @@ a:focus {
 
 a.title-link {
     font-weight: 900;
-    color: #75787B;
+    color: #4BAEFF;
     border-bottom: none;
 }
 
 a.title-link:hover,
 a.title-link:active,
 a.title-link:focus {
-    color: #7eb8dd;
+    color: #004b6a;
     border-bottom: none;
 }
 
@@ -193,7 +193,7 @@ Navigation
 .sidebar-nav .sidebar-nav-active {
   color: #FFF;
   border-left: 4px solid #004b6a;
-  background-color: #7ab5d6;
+  background-color: #4BAEFF;
 }
 .sidebar-nav li:hover,
 .sidebar-nav li:active,
