@@ -31,10 +31,10 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Report Overview
   url: ./
   internal: true
-- text: Challenge Page
+- text: Team Challenge
   url: challenge_page/
   internal: true
 - text: User-centered
@@ -48,6 +48,9 @@ navigation:
   internal: true
 - text: Research Insights
   url: researchinsights_page/
+  internal: true
+- text: Prototyping Overview
+  url: prototype_page/
   internal: true
 
 # Repo list
