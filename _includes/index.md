@@ -6,4 +6,6 @@
 
 Code for America is partnering with Salt Lake County to build technology solutions to improve services and strengthen the relationship between the county and its citizens, with an aim to lower the rate at which citizens fail to appear (FTA) in court, supervision and treatment appointments in addition to lowering the recidivism rate. 
 
+Use the left navigation options to view the full report's contents here or use visit the [Interactive Report Explorer](http://slco-2016.github.io/q1_report/) site to view a condensed walk through of our work and jump straight into the data visualization tools we have built to explore our early analyses results.
+
 ![Office]({{ site.baseurl }}/assets/imgs/misc/1.jpg)

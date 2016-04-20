@@ -52,6 +52,10 @@ navigation:
 - text: Prototyping Overview
   url: prototype_page/
   internal: true
+- text: Interactive Site
+  url: http://slco-2016.github.io/q1_report/
+  internal: false
+
 
 # Repo list
 # List repos that you would like to appear on the homepage here
