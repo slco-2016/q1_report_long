@@ -23,7 +23,7 @@ title:  "Insights Resulting from Dissemination of Research"
 ![systemflow]({{ site.baseurl }}/assets/imgs/systemflow/9.jpg)
 
 ### System complexity
-- Key takeaway: Complexity in the system and lack of clear information can make it hard for a client to comply with their supervision. Furthermore, complexity and the resultant obfuscation is not a malady solely clientside. Lack of transparency between the courts, service providers and Criminal Justice Services makes it hard for case managers to have a complete picture of challenges their clients might have and for clients to keep track of all their requirements.
+- Key takeaway: Complexity in the system and lack of clear information can make it hard for a client to comply with their supervision. Furthermore, system complexity acts as a barrier to to effectiveness on the operations and case management side as well as obfuscating pathways to success on clientside. Lack of transparency between the courts, service providers and Criminal Justice Services makes it hard for case managers to have a complete picture of challenges their clients might have and for clients to keep track of all their requirements.
 - Quotes
 	- *“I just wanted to know what is going to happen next. I want to do the right thing.”* - Client, Criminal Justice Services 
 	- *“Make the [process] easier for the client to understand”* - Case Manager, Criminal Justice Services  
@@ -40,7 +40,7 @@ title:  "Insights Resulting from Dissemination of Research"
 
 
 ### Supervision compliance motivators
-- Key takeaway: People who have not had a lot of experience with the Justice System are afraid of getting out of compliance and are eager to put probation behind them. 
+- Key takeaway: People with limited experience with the Justice System are afraid of getting out of compliance and are eager to put probation behind them. 
 - Quotes
 	- *“You have to be really motivated or scared to death to succeed”* - Case Manager, Criminal Justice Services 
 	- *“The ones that show are the ones that will get it done….The ones that don’t show up get more charges.”* - Case Manager, Criminal Justice Services 
@@ -65,7 +65,7 @@ title:  "Insights Resulting from Dissemination of Research"
 
 
 ### Personal Barriers
-- Key takeaway: Potential for personal loss can have significant impact on the severity with which they place potential jail and supervision requirements.
+- Key takeaway: Attitudes toward supervision and barriers to compliance are differ depending upon the individual.
 - Quotes
 	- *"We’re dealing with people; we need to make the communication personal” - Case Manager, Criminal Justice Services 
 	- *"Every client comes a different kind of need. You treat each one is a separate way...some that need more encouragement some that need more guidance."* - Case Manager, Criminal Justice Services 
