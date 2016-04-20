@@ -44,7 +44,7 @@ title:  "Insights Resulting from Dissemination of Research"
 - Quotes
 	- *“You have to be really motivated or scared to death to succeed”* - Case Manager, Criminal Justice Services 
 	- *“The ones that show are the ones that will get it done….The ones that don’t show up get more charges.”* - Case Manager, Criminal Justice Services 
-	- *“You’ll find that when they get out of jail they are excited [and motivated to stay out of jail].”* - Case Manager, Criminal Justice Services 
+	- *“You’ll find that when they get out of jail they are excited [and motivated to stay out  of jail].”* - Case Manager, Criminal Justice Services 
 
 
 ![systemflow]({{ site.baseurl }}/assets/imgs/clientportraits/09-2.jpg)
@@ -59,7 +59,7 @@ title:  "Insights Resulting from Dissemination of Research"
 	- “[I] knew I was going to be dirty and I fell back into the same thing and my attitude from that... fxxx it”* - Client, Criminal Justice Services 
 - Observations
 	1. Small errors, such as a missed an appointment or failed a drug test, can lead to a spiral effect where the client thinks they are in such a greater degree of severity in terms of noncompliance that further “descent” is minor and inevitable. Strong comparisons might be drawn to behavior surrounding, for example, debt.
-- Ideas/Opportunities: How might we make it easier for people who to comply with their supervision to do so? Also, how might we give people who are not motivated reasons to comply? 
+- Ideas/Opportunities: How might we make it easier for people who want to comply with their supervision to do so? Also, how might we give people who are not motivated reasons to comply? 
 	1. Assist in the pursuit of personal goals in parallel to completing  supervision requirements.
 	2.Incentivise compliance by making them eligible for a lottery to refund some of the supervision fees already paid. 
 
@@ -104,12 +104,12 @@ title:  "Insights Resulting from Dissemination of Research"
 ![clientpaperwork]({{ site.baseurl }}/assets/imgs/clientpaperwork/2.jpg)
 
 ### Individualized Support
-- Key takeaway: Support Staff engage with clients in a complementary manner with regards to the case manager, because their roles are not compliance focused. Intensive Supervision Program (ISP) Officers build rapport with clients and see themselves as Mentors. Peer Mentors are knowledgeable of and empathy for the barriers addicts can face because they have been through a similar struggle.
+- Key takeaway: Support Staff engage with clients in a complementary manner with regards to the case manager, because their roles are not compliance focused. Intensive Supervision Program (ISP) Officers build rapport with clients and see themselves as Mentors. Peer Mentors are knowledgeable of, and have empathy for, the barriers addicts can face because they have been through a similar struggle.
 - Quotes
 	- *“[The] goal is to not to throw [clients] in jail but to rehabilitate.”* - Intensive Supervision Probation Officer, Criminal Justice Services  
 	- *Dealing with a person not just as themselves but as a whole … get them something that will give them a reason to stay sober."* - Therapist, Criminal Justice Services  
 - Observations
-	1. ISP officers and Peer Support staff at Criminal Justice Services use texting to stay in frequent contact with clients to build rapport and give support.
+	1. Intensive Supervision Probation (ISP) officers and Peer Support staff at Criminal Justice Services use texting to stay in frequent contact with clients to build rapport and give support.
 	2. Criminal Justice Services case managers have reached out to ISP officers to visit their noncompliant clients with great results. 8 of 10 of the noncompliant clients they reach out to call their case managers right away.
 	3. Therapists who work with clients identify emotional support as an important piece of client success.
 - Ideas/Opportunities: How might we supervise and support specific demographics differently?

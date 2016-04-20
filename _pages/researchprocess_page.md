@@ -3,6 +3,8 @@ layout: page
 title:  "Documenting The User-focused Research Processes Employed"
 ---
 
+![map]({{ site.baseurl }}/assets/imgs/misc/16.png)
+
 ### Overview
 
 The first phase’s research process focused on visitation and observation. Primarily, these occurred at the Salt Lake County Jail, Criminal Justice Services, Courts and “in-field” probation check-ups. Interviews focused on experiences of people within the justice system, potential barriers to completing supervision, technology access and their communication preferences.
@@ -13,8 +15,6 @@ The first phase’s research process focused on visitation and observation. Prim
 	- 12 Criminal Justice Service staff
 - Short  Interviews, 5-20 minutes in length
 	-  8 homeless individuals in downtown Salt Lake City
-
-<iframe src="{{ site.baseurl }}/assets/embed/map.html"></iframe>
 
 ### Workshops
 
