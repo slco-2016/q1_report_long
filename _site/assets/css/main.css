@@ -47,6 +47,14 @@ strong {
     font-weight: 600;
 }
 
+.page-title {
+    color: #004b6a
+}
+
+h2, h3, h4 {
+    color: #4BAEFF;
+}
+
 .site-title {
     font-size: 1.625em;
     font-family: 'Source Sans Pro', Arial, sans-serif;
