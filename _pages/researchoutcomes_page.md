@@ -7,7 +7,9 @@ title:  "Outcomes of Research Process"
 
 **Initial hypothesis:** People are failing to attend their court appearances or comply with supervision requirements because they forget them.
 
-**Revised hypothesis:** Some people are indeed simply forgetting their appointments, but there are other myriad of social, emotional, financial, logistical, and institutional barriers that account for people failing to comply with their supervision. Identifying patterns and producing archetypes will be necessary to provide a foundation upon which to research and measure the target population longitudinally.
+**Revised hypothesis:** Some people are indeed simply forgetting their appointments, but there are other myriad of social, emotional, financial, logistical, and institutional barriers that account for people failing to comply with their supervision.
+
+This impacts the work with are doing to improve a client's ability to communicate with their case manager by allowing us to understand a client’s willingness and ability to comply with the justice system and inform future automated communication that may  help them successfully complete their time under supervision. 
 
 ![Paperwork]({{ site.baseurl }}/assets/imgs/clientpaperwork/1.jpg)
 
@@ -62,7 +64,7 @@ In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additiv
 	- Characteristics:
 		- Blames circumstances as result of being targeted by law enforcement.
 		- Of the opinion that  their charges are unfair.
-		- Most likely are unmotivated to change, the notion of self-improvement.
+		- Most likely are unmotivated to change.
 
 
 
