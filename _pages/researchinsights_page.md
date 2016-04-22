@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Insights Resulting from Dissemination of Research"
+title:  "Insights from Research Synthesis"
 ---
 
 ![JoAnn]({{ site.baseurl }}/assets/imgs/misc/12.jpg)
