@@ -95,7 +95,7 @@ title:  "Insights from Research Synthesis"
 	- *"Treatment will address Recidivism better than incarceration.”* - Administrator, Salt Lake County Behavioral Health Services 
 - Observations
 	1. Easy access to drugs at homeless shelters poses a high risk. 
-- Ideas/Opportunities: How might we we tailor interventions to specific populations?
+- Ideas/Opportunities: How might we tailor interventions to specific populations?
 	1. Behavioral Health has a master name list with the “top ten” individuals who are heavy users on the mental health resources and have a high number of bookings. Helping edge cases like these could help more people and reduce burden on the system.
 	2. Create redirection mechanism at jail booking to provide an alternative center for mental health and substance abuse clients that has treatment or something other than jail so that they are not getting entered into an inappropriate system.
 
