@@ -8,7 +8,7 @@ title:  "Overview of Prototype Development Methods and Conjoined Longitudinal Re
 - Dominant request through research: communication
 - 2 existing, “high-priority” pain points in communication at present between case managers and clients
 	- Identifying and maintaining up-to-date communication methods for clients
-	- Lack of effective “passive” communication methods (examples:. voicemails tend to be unreliable, email is only partially supported, and text messaging is currently not provided)
+	- Lack of effective “passive” communication methods (examples: voicemails tend to be unreliable, email is only partially supported, and text messaging is currently not provided)
 
 
 ### Supporting Diversity
@@ -30,7 +30,7 @@ Passive communication thrives when mechanism is easy to use. A key way to provid
 
 ### Resulting prototype: ClientComm
 
-***Base Deployment**
+**Base Deployment**
 
 - Base tool facilitates text communication between case managers and clients
 	- Contact enables a live log of communication methods use, thus enabling the case manager to see all forms of communication used to reach out to case manager (e.g. a caller ID log) and thus make educated guesses as to what method of contact will be most likely to reach a client with success.
@@ -57,5 +57,5 @@ Passive communication thrives when mechanism is easy to use. A key way to provid
 **How are going to measure effectiveness of tool with regards to our overall mission?**
 
 - Because this software is core to our research, conversations performed over ClientComm will give us unique insight into what pain points can be attributed to which client-types. This allows ClientComm to generate robust data on categorized client pain points; data which can be used to make intelligent policy level decisions.
-- Through users of ClientComm, we can - over time - begin to observe client success through the tool.
+- Through users of ClientComm, over time we can begin to observe client success through the tool.
 - Caveats: As with most social research, externalities lead to complexity scales that prohibit absolute measures of either causation or correlation. That said, by maintaining aggressive user research strategies that put us in direct conversations with case managers and clients, we can create proxy, anecdotal reports that, through volume, can assist in shedding light and understanding on data generated through the system.

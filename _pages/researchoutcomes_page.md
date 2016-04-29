@@ -26,44 +26,39 @@ In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additiv
 ### Resulting archetypes
 
 1. **Achievement-focused**
-	- *“[This is the] the first time in a long time I'm doing good. I’m proud of myself.”*
+	- *“This is the first time in a long time I'm doing good. I’m proud of myself.”*
 	- Characteristics:
 		- Has positive social support, mild confidence about their success.
-		- May have a good understanding of how the justice process works.
-		- May have  recreational drug use in their past or are overcoming addiction. 
+		- May have a working understanding of the criminal justice process.
 		- May have multiple convictions in their past or need to move away from negative social ties.
 
 2. **Confused**
-	- *“I don’t even know when it was that’s how messed up I was. That’s how lost I was. Everything is a blur.”*
+	- *“I don’t even know when it was that’s how messed up I was. That’s how lost I was; everything is a blur.”*
 	- Characteristics:
-		- Needs reminders and positive social support.
+		- Wants to make sure they are complying with their requirements.
 		- Negative social influences can influence their actions.
-		- May have to navigate multiple cases at the same time. 
-		- Unsure of their success and wants to make sure they are complying with their requirements.
+		- May have to navigate multiple cases at the same time and needs reminders of what is required of them.
 		- May use drugs recreationally, and/or, have trauma in the past they are working through.
 
 3. **Consequence-focused**
 	- *“I just got to stop hanging out with certain other people.”*
 	- Characteristics:
-		- Constant fear failing supervision requirements.
+		- Are able to remember appointments and clear on what’s expected of them.
+		- Are afraid of failing supervision requirements.
 		- Most likely are in their early 20's with some family support.
-		- Most likely are able to remember their appointments.
-		- Most likely negative social influences can influence their actions.
-		- May be clear on what’s expected of them. 
+		- Negative social ties can influence their actions.
 
 4. **Stable**
 	- *“Everything just hit my family at once. This is something I just want to move past.”*
 	- Characteristics:
-		- Life is relatively organized, financially secure.
-		- Perceives their situation as an error in judgement or unlucky circumstances that lead to their arrest but not as indicative of themselves as people.
-		- Wants to remedy the situation and put their charge behind them.
+		- Generally have their personal life (finances, social ties, family) in order and wants to put their charge behind them.
 		- Most likely supervision fees are difficult for them to pay.
 
 5. **Angry**
 	- *“I'm going to fight all those charges. I'm not causing no trouble.”*
 	- Characteristics:
-		- Blames circumstances as result of being targeted by law enforcement.
-		- Of the opinion that  their charges are unfair.
+		- Blames their circumstances as being targeted by law enforcement.
+		- Feels their charges are unfair.
 		- Most likely are unmotivated to change.
 
 

@@ -67,7 +67,7 @@ title:  "Insights from Research Synthesis"
 ### Personal Barriers
 - Key takeaway: Attitudes toward supervision and barriers to compliance are differ depending upon the individual.
 - Quotes
-	- *"We’re dealing with people; we need to make the communication personal” - Case Manager, Criminal Justice Services 
+	- *"We’re dealing with people; we need to make the communication personal”* - Case Manager, Criminal Justice Services 
 	- *"Every client comes a different kind of need. You treat each one is a separate way...some that need more encouragement some that need more guidance."* - Case Manager, Criminal Justice Services 
 	- *"Clients that don't have a lot of arrests prior to me seeing them and one that have a good support system are the ones more likely to be successful.”* - Case Manager, Criminal Justice Services 
 - Observations
