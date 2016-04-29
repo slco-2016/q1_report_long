@@ -25,22 +25,22 @@ In “Scaling archetypal criminals,” Dr. Matt DeLisi designed a 7-item additiv
 
 ### Resulting archetypes
 
-1. **Achievement-focused**
+1. **Achievement Focused**
 	- *“This is the first time in a long time I'm doing good. I’m proud of myself.”*
 	- Characteristics:
 		- Has positive social support, mild confidence about their success.
 		- May have a working understanding of the criminal justice process.
 		- May have multiple convictions in their past or need to move away from negative social ties.
 
-2. **Confused**
+2. **Lack Clarity and Support**
 	- *“I don’t even know when it was that’s how messed up I was. That’s how lost I was; everything is a blur.”*
 	- Characteristics:
 		- Wants to make sure they are complying with their requirements.
-		- Negative social influences can influence their actions.
+		- Negative social ties can influence their actions.
 		- May have to navigate multiple cases at the same time and needs reminders of what is required of them.
 		- May use drugs recreationally, and/or, have trauma in the past they are working through.
 
-3. **Consequence-focused**
+3. **Consequence Focused**
 	- *“I just got to stop hanging out with certain other people.”*
 	- Characteristics:
 		- Are able to remember appointments and clear on what’s expected of them.
